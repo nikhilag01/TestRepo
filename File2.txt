@@ -1,1 +1,3 @@
-Change 1
+Change 1 - change in master made by teammate
+
+New line added
